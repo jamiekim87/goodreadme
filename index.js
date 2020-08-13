@@ -1,6 +1,8 @@
 const inquirer = require('inquirer')
 const fs = require('fs')
 
+const generateMarkdown = require('./utils/generateMarkdown')
+
 // array of questions for user
 const questions = () => {
     inquirer
@@ -15,11 +17,11 @@ const questions = () => {
             name: 'description',
             message: "What is the sections entitled description?"
         },
-        { 
-            type: 'input',
-            name: 'contents',
-            message: "What is the Table of Contents?"
-        },
+        // { 
+        //     type: 'input',
+        //     name: 'contents',
+        //     message: "What is the Table of Contents?"
+        // },
         { 
             type: 'input',
             name: 'installation',
@@ -34,7 +36,8 @@ const questions = () => {
             type: 'input',
             name: 'license',
             message: "What is the license?"
-        },{ 
+        },
+        { 
             type: 'input',
             name: 'contributing',
             message: "What is the contributor?"
@@ -47,31 +50,34 @@ const questions = () => {
         { 
             type: 'input',
             name: 'questions',
-            message: "What is the quesitons?"
+            message: "What is the questions?"
         }
-
     ])
     .then(res => {
-        console.log(res.name, res.choice)
-        count++
-        if (count < 5) {
-          question()
-        }
-      })
-      .catch(err => console.log(err))
-  }
- 
-  question()
+        console.log(res)
+        let contents = generateMarkdown(res)
+        writeToFile('README.md', contents) 
+    })
+    .catch(err => console.log(err))
+}
+
+questions()
+
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, function (err) {
+        if (err) { console.log(err) }
+        console.log('File Created!')
+    })
   
 }
 
-// function to initialize program
-function init() {
+// // function to initialize program
+// function init() {
 
-}
+// }
 
-// function call to initialize program
-init();
+
+// // function call to initialize program
+// init();
