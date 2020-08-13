@@ -1,13 +1,38 @@
 # Goodreadme Project
 
-    Title 
-    Description It generates a README.md of a title, description, installation, usage, license, contributing, tests, and quesitons. It helps to save time on working with coding tasks. It automatically creates README.md template and directly puts the information in the file. 
-    Installation It uses to install the file 
-    Usage npm i package json 
-    license Apach 2.0 
-    Contributing Jamie 
-    Tests test
-    Questions undefined
+    # Title 
+
+  
+    ## Table of Contents
+
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
+    - [Questions](#questions)
+
+    ## Description 
+    With this app, it generates README with the information about the appincluding the tile, descriptions, installation, usage, license, contributing, tests, and questions. it helps to save time and provide more hours for coding support. it uses command-line application to generate professional looking README fils in short amount of time. 
+
+
+    ## Installation 
+    to use this app, first need to install npm and command npm i inquiere to process
+
+    ## Usage 
+    the usage of this app is to generate a README file. 
+
+    ## license 
+    Apach 2.0
+
+    ## Contributing 
+    Jamie
+
+    ## Tests 
+    test run
+    ## Questions 
+    undefined
 
   
   

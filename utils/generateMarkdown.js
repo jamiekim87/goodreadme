@@ -3,6 +3,7 @@ function generateMarkdown(data) {
     return `# ${data.title}
 
     # Title 
+    ${data.title}
 
   
     ## Table of Contents
@@ -33,6 +34,7 @@ function generateMarkdown(data) {
 
     ## Tests 
     ${data.tests}
+    
     ## Questions 
     ${data.quesitons}
 
