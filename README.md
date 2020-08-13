@@ -1,7 +1,9 @@
-# Goodreadme 
+# Goodreadme Project
+
+github URL:  https://github.com/jamiekim87/goodreadme.git
+Video Link: 
 
     # Title 
-    Goodreadme 
 
   
     ## Table of Contents
@@ -22,7 +24,7 @@
     to use this app, first need to install npm and command npm i inquiere to process
 
     ## Usage 
-    the usage of the app is to generate a README file.
+    the usage of this app is to generate a README file. 
 
     ## license 
     Apach 2.0
@@ -31,7 +33,7 @@
     Jamie
 
     ## Tests 
-    run test
+    test run
     
     ## Questions 
     undefined
