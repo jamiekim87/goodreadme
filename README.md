@@ -27,6 +27,7 @@ github URL:  https://github.com/jamiekim87/goodreadme.git
 
  ## License 
  https://img.shields.io/github/license/<Github-Username>/<Repository>
+ [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
    Apach 2.0
 
