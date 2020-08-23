@@ -25,7 +25,8 @@ github URL:  https://github.com/jamiekim87/goodreadme.git
     
    the usage of this app is to generate a README file. 
 
- ## license 
+ ## License 
+ https://img.shields.io/github/license/<Github-Username>/<Repository>
     
    Apach 2.0
 
