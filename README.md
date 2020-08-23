@@ -1,9 +1,6 @@
 # Goodreadme Project
 
 github URL:  https://github.com/jamiekim87/goodreadme.git
-Video Link: 
-
-# Title 
 
 ## Table of Contents
 
