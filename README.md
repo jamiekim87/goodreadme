@@ -1,9 +1,6 @@
 # Responsive Portfolio
 
 gitHub URL: https://github.com/jamiekim87/Responsive-portfolio.git
-deployed: https://jamiekim87.github.io/Responsive-portfolio/
-
-<img src="./assets/images/image.jpg">
 
 ## Table of Contents
 
