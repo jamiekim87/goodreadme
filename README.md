@@ -1,6 +1,7 @@
-# Responsive Portfolio
+# Google Books Search
 
-gitHub URL: https://github.com/jamiekim87/Responsive-portfolio.git
+GitHub URL: https://github.com/jamiekim87/Responsive-portfolio.git
+Deployed page: https://whispering-river-31980.herokuapp.com/
 
 ## Table of Contents
 
@@ -14,15 +15,15 @@ gitHub URL: https://github.com/jamiekim87/Responsive-portfolio.git
 
  ## Description
     
-   With this app, responsive design ensures that web applications render well on a variety of devices and window or     screen sizes. As a developer, you will liked be asked to create a modile-first application or add responsive design to an existing application. 
+   This is a new React-based Google Books Search app that requires you to create React componeents, work with helper/util functions, and utilize React lifecycle method to query      and display books based on user searches. It also uses Node, Express and MongoDB so that users can save books to review or purchase later. 
 
  ## Installation 
     
-   to use this app, following these files: index.html, portfolio.html and contact.html
+   to use this app, following these files: npx create-react-app my-app and npm packages
 
  ## Usage 
     
-   the usage of this app is to create a mobile-first application or add responsive design to an existing application. 
+   the usage of this app is to utilize the React to build the app that searched books on user seaches and save book to review and purchase.
 
  ## License 
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
