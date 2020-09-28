@@ -1,6 +1,5 @@
 # Google Books Search
 
-GitHub URL: https://github.com/jamiekim87/Responsive-portfolio.git
 Deployed page: https://whispering-river-31980.herokuapp.com/
 
 ## Table of Contents
