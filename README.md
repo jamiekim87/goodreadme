@@ -43,6 +43,8 @@ Deployed page: https://whispering-river-31980.herokuapp.com/
     
   ## GitHub Username 
   
+  [submit a new issue](https://github.com/jamiekim87/employee/issues/new)
+  
   jamiekim87
   
   ## Email 
