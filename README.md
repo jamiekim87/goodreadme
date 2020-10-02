@@ -1,6 +1,9 @@
-# Google Books Search
+# React Portfolio
 
-Deployed page: https://whispering-river-31980.herokuapp.com/
+Deployed page: https://jamiekim87.github.io/reactportfolio/
+Githhub Repo: https://github.com/jamiekim87/reactportfolio.git
+
+
 
 ## Table of Contents
 
@@ -13,16 +16,15 @@ Deployed page: https://whispering-river-31980.herokuapp.com/
    - [Questions](#questions)
 
  ## Description
-    
-   This is a new React-based Google Books Search app that requires you to create React componeents, work with helper/util functions, and utilize React lifecycle method to query      and display books based on user searches. It also uses Node, Express and MongoDB so that users can save books to review or purchase later. 
-
+    Using React, this is an application to share the multiple projects that I worked on so far. I will be updating my portfolio and other materials to build toward being employer competitive. I have added about, portfolio, and contact page for my portfolio presenting 6 of my precious projects that I have worked on. I first had to install the npx create-react-app packages to start the server. and made adjuestments to public and source folder to began my work in react portfolio. After that, I had to import the properties that I will be using on React to futher build my website. My favorite part of this app was to create and design my own web page with react strap which brought variety of presentable stylesheets that made my page look wonderful! React has been a greatest technology that I have used so far and I would love to build more pages upon it using multiples of sources. As I am building toward being a web developer, I felt as those I was building toward my goal that has been don for a journey. 
+  
  ## Installation 
     
    to use this app, following these files: npx create-react-app my-app and npm packages
 
  ## Usage 
     
-   the usage of this app is to utilize the React to build the app that searched books on user seaches and save book to review and purchase.
+   the usage of this app is to utilize the React to build the app that display the projects and coursework on portfolio page.
 
  ## License 
  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -43,9 +45,9 @@ Deployed page: https://whispering-river-31980.herokuapp.com/
     
   ## GitHub Username 
   
-  [GitHub Pages](https://github.com/jamiekim87/employee/issues/new)
+  [GitHub Pages](https://github.com/jamiekim87/)
   
-  jamiekim87
+  Username: jamiekim87
   
   ## Email 
   
